@@ -43,4 +43,4 @@ python test.py
 
 ## Related
 
-- [project_pigeon](https://github.com/jhkang-rsrch/project_pigeon): course project on neuron activation coverage, which later became K-SNAC (ASE 2025 Workshop).
+- [project_pigeon](https://github.com/jhkang-rsrch/project_pigeon): course project on neuron activation coverage metrics and robustness.
